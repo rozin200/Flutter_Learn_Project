@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Color.fromARGB(255, 31, 63, 80),
-          title: Text("Flutter From Scratch"),
+          title: Text("Learn Flutter From Scratch"),
         ),
         backgroundColor: Colors.blueGrey,
       ),
